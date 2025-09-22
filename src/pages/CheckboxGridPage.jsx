@@ -170,7 +170,8 @@ const CheckboxGridPage = () => {
             DB신청
           </h1>
           <p className="text-lg md:text-xl text-gray-300 font-medium">
-            간편하고 빠른 데이터베이스 신청 서비스
+            더금융서비스 퍼스트채널
+            간편하고 빠른 DB 신청 서비스
           </p>
         </div>
       </div>
